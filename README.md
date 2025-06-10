@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**DMarugan/DMarugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Dani
+<hr>
+Hi, I'm Dani, a Full Stack Developer 🚀 from Spain, currently, I'm working on 🙍🏽‍♂️ @PHP for  @Zelenza's projects.
+<br>
+<br>
+🔭 I’m currently working on <a href="zelenza.com">Zelenza</a>
+<br>
+<br>
+🌱 I’m currently learning Node.js, Express.js & Vue.js
+<br>
+<br>
+💬 Ask me about Ask me about anything, I am happy to help;
+<br>
+<br>
+📫 How to reach me danielmaruganmartin@gmail.com
