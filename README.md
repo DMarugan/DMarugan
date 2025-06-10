@@ -1,4 +1,4 @@
-Hi 👋, I'm Dani
+<h1 style="margin-left:25%;">Hi 👋, I'm Dani</h1>
 <hr>
 Hi, I'm Dani, a Full Stack Developer 🚀 from Spain, currently, I'm working on 🙍🏽‍♂️ @PHP for  @Zelenza's projects.
 <br>
